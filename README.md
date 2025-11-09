@@ -1,2 +1,22 @@
-# E-eCommerce-
-E-Commerce Web App lets users browse products, add items to a cart, and place orders online. Users can register, log in, and view product details. Admins manage products and orders. The platform provides an easy and convenient online shopping experience.
+# E-CommerceWebsite
+ A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
+ 
+ 
+ 
+### Home page
+![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+
+
+
+### Content Description page
+![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
+
+
+
+### Ordered List page
+![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
+
+
+
+### Order confirm page
+![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
